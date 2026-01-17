@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "table_wrap",
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ]
+}
